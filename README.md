@@ -5,4 +5,4 @@ This repository contains the implementation of the randomized quasi-Monte Carlo 
 The implementation is in the Python programming language, and the presented functions are commented in detail. 
 The notation in the code is consistent with the two following works:
 - C. Bayer, C. Ben Hammouda, A. Papapantoleon, M. Samet, and R. Tempone. Optimal damping with hierarchical adaptive quadrature for efficient Fourier pricing of multi-asset options in Lévy models. Journal of Computational Finance, 27(3):43–86, 2024.
-- C. Bayer, C. Ben Hammouda, A. Papapantoleon, M. Samet, and R. Tempone. Quasi-Monte Carlo for Efficient Fourier Pricing of Multi-Asset Options Arxiv preprint, 2024.
+- C. Bayer, C. Ben Hammouda, A. Papapantoleon, M. Samet, and R. Tempone. Quasi-Monte Carlo for Efficient Fourier Pricing of Multi-Asset Options (To appear soon).
