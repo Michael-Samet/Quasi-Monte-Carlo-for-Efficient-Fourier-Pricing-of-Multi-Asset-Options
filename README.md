@@ -6,3 +6,20 @@ The implementation is in the Python programming language, and the presented func
 The notation in the code is consistent with the two following works:
 - [C. Bayer, C. Ben Hammouda, A. Papapantoleon, M. Samet, and R. Tempone. Optimal damping with hierarchical adaptive quadrature for efficient Fourier pricing of multi-asset options in Lévy models. Journal of Computational Finance, 27(3):43–86, 2024.](https://arxiv.org/abs/2203.08196)
 - [C. Bayer, C. Ben Hammouda, A. Papapantoleon, M. Samet, and R. Tempone. Quasi-Monte Carlo for Efficient Fourier Pricing of Multi-Asset Options (Arxiv preprint)](https://arxiv.org/abs/2403.02832)
+
+
+In case of use of the code, please cite us by mentioning the webpage containing the code and adding the following references to your work:
+
+@article{bayer2022optimal,
+  title={Optimal Damping with Hierarchical Adaptive Quadrature for Efficient Fourier Pricing of Multi-Asset Options in L$\backslash$'evy Models},
+  author={Bayer, Christian and Hammouda, Chiheb Ben and Papapantoleon, Antonis and Samet, Michael and Tempone, Ra{\'u}l},
+  journal={Journal of Computational Finance 27.3 (2024), pp. 43–86},
+  year={2024}
+}
+
+@article{bayer2024quasi,
+  title={Quasi-Monte Carlo for Efficient Fourier Pricing of Multi-Asset Options},
+  author={Bayer, Christian and Hammouda, Chiheb Ben and Papapantoleon, Antonis and Samet, Michael and Tempone, Ra{\'u}l},
+  journal={arXiv preprint arXiv:2403.02832},
+  year={2024}
+}
