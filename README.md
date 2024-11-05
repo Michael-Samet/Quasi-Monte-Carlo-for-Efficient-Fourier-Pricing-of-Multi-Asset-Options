@@ -1,6 +1,8 @@
 # Quasi-Monte-Carlo-for-Efficient-Fourier-Pricing-of-Multi-Asset-Options
 
-This repository contains the implementation of the randomized quasi-Monte Carlo (RQMC) method applied in the Fourier space for the pricing of multi-asset European rainbow and basket options under Geometric Brownian motion (GBM), variance gamma (VG), and normal inverse Gaussian (NIG).  It also contains the implementation of the tensor product Gauss-Laguerre quadrature method and the Monte Carlo (MC) method applied in the Fourier domain. Moreover, we provide the implementation of the standard MC method in the physical/direct domain for benchmarking purposes and the computation of reference prices.
+This repository contains the implementation of the randomized quasi-Monte Carlo (RQMC) method applied in the Fourier space for the pricing of multi-asset European rainbow, basket, spread, and digital options under Geometric Brownian motion (GBM), variance gamma (VG), normal inverse Gaussian (NIG) and Generalized Hyperbolic (GH) models.  It also contains the implementation of the tensor product Gauss-Laguerre quadrature method and the Monte Carlo (MC) method applied in the Fourier domain. Moreover, we provide the implementation of the standard MC method in the physical/direct domain for benchmarking purposes and the computation of reference prices.
+
+The Premia Implementation folder features an object-oriented programming structure developed during a research visit with the MathRisk team at Inria in Paris. This structure enhances modularity and facilitates easier extensions to other models and payoff functions. Comprehensive documentation is included to support understanding and further development.
 
 The implementation is in the Python programming language, and the presented functions are commented in detail. 
 The notation in the code is consistent with the two following works:
